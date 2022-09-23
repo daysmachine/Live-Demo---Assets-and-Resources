@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Live Demo - Assets and Resources</string>
+    <string name="label_hello">Hello World!</string>
+</resources>
