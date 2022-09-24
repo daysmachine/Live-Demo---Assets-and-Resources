@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Demostración en vivo - Activos y recursos</string>
-    <string name="label_hello">Hola Mundo!</string>
+    <string name="label_hello">¡Hola Mundo!</string>
+    <string name="toggle_button_text">Alternar las gafas</string>
 </resources>

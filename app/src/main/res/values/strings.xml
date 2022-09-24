@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Live Demo - Assets and Resources</string>
     <string name="label_hello">Hello World!</string>
+    <string name="toggle_button_text">Toggle the Glasses</string>
 </resources>
